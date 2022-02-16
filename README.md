@@ -1,3 +1,5 @@
+### Citation: This repo is forked from [yrestom/erpnext_telegram](https://github.com/yrestom/erpnext_telegram).
+
 # Erpnext Telegram Integration And Notifications
 
 Telegram Integration and Extra Notifications For Frappe & Erpnext to sending fast notifications for more productivity.
